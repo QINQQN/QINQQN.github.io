@@ -5,7 +5,7 @@ description: 欢迎来到我的个人站~
 # 头像里面的标题
 avatarTitle: leopardpan
 # 头像里面的描述
-avatarDesc: iOS / 机器学习
+avatarDesc: 动漫介绍
 url: "https://github.com/QINQQN/qqn.github.io/blob/master/timg.jpg"
 
 # Comment
@@ -15,20 +15,19 @@ comment:
 
 # Social
 social:
-    weibo: 5366874726 
-    github: leopardpan
+    weibo: 15766768221 
+    github: QINQQN
     # twitter: 
-    mail: leopardpan@icloud.com
+    mail: 980937960@qq.com
 
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
 baidu:
-    id: 8ba1c6be0953b6f9c2ba38e57f615421  
-
+    id: 
 # Google Analytics
 # 使用博客模板请去掉或者更换 id
 ga:
-    id: UA-84134159-3   
+    id:    
     host: auto  
 
 
