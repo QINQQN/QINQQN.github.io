@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jekyll搭建个人博客
+title: 微信小程序开发—(八)canvas绘制图形
 date: 2016-10-14 
 tags: 博客   
 ---
